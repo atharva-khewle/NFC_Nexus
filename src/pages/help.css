@@ -1,0 +1,36 @@
+
+  .form-inline my-2 my-lg-0{
+    margin-left: 10px;
+  }
+  .Container{
+    
+    background-color: gainsboro;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 50px;
+   
+    height: 100px;
+    padding-bottom: 20px;
+  }
+  .Container1{
+    font-size: 20px;
+  }
+  .questions{
+    background-image: url(https://img.freepik.com/free-photo/sunshine-clouds-sky-during-morning-background-blue-white-pastel-heaven-soft-focus-lens-flare-sunlight-abstract-blurred-cyan-gradient-peaceful-nature-open-view-out-windows-beautiful-summer-spring_1253-1092.jpg);
+    background-size: cover;
+    padding-left:10px ;
+    padding-right:10px ;
+    margin-top: 20px;
+    height: auto;
+    
+  }
+  
+  .ques-ans{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .ques-ans p{
+    font-size: 16px;
+  }
