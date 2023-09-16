@@ -3,7 +3,7 @@ import React from 'react'
 
 export const Maaap = () => {
   return (
-    <div className='map bg-red-600'>
+    <div className='mappp map bg-red-600 '>
 
 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
