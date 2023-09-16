@@ -75,7 +75,7 @@ export const Footer = () => {
           </section>
         </div>
         <div className="text-center p-3" style={{ backgroundColor: 'rgba(0, 0, 0, 1)' }}>
-          © 2020 Copyright:
+          © 2023 Copyright:
           <a className="text-white" >EcoDrive.com</a>
         </div>
       </footer>
